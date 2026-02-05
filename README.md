@@ -1,11 +1,11 @@
 # About Me:
-Welcome to My GitHub Profile!<br><br>I'm a passionate Data Scientist, Analyst, and Full Stack Software Developer, constantly exploring innovative ways to turn data into actionable insights and impactful solutions. I specialize in programming, machine learning, and analytics. Previously, I'm conducting research on transformers and lemmatization for my master's thesis.<br><br><br> 
+Welcome to My GitHub Profile!<br><br>I'm a passionate Data Scientist, Analyst, and Full Stack Software Developer, constantly exploring innovative ways to turn data into actionable insights and impactful solutions. I specialize in programming, machine learning, and analytics. Previously, I'm conducting research on transformers and morphological segmentation for my master's thesis.<br><br><br> 
 
 ### Skills & Tools
 Languages & Frameworks: Python, JavaScript, C++, Go, MySQL, PostgreSQL, PyTorch, TensorFlow, React, Django, Node<br><br>Tools: Jupyter Notebook, Colab, Tableau, Pandas, NumPy, Scikit-Learn<br>
 
 ### What I'm Working On
-- Researching transformers and lemmatization for advanced NLP tasks.
+- Researching transformers and morphological segmentation for advanced NLP tasks.
 - Building machine learning models to solve real-world problems in analytics and AI.
 - Building apps and software.
 - Training my ability in algorithm and data structures.
